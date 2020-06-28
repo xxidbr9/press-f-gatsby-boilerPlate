@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "author": "Barnando Akbarto <barnando13@gmail.com>",
   "dependencies": {
-    "gasp": "0.0.2",
     "gatsby": "^2.17.4",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-manifest": "^2.2.23",
@@ -22,6 +21,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
+    "react-transition-group": "^4.4.1",
     "smooth-scrollbar": "^8.5.2"
   },
   "devDependencies": {
